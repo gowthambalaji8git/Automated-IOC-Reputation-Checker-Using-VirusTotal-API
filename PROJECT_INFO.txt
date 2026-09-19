@@ -1,0 +1,8 @@
+Project: Automated IOC Reputation Checker Using VirusTotal API
+Author: Gowthambalaji M
+Primary Environment: Kali Linux / Linux
+Automation: Bash + Python
+Threat Intelligence: VirusTotal API v3
+Dataset: 500 synthetic/lab IOC records
+IOC Types: IP addresses, domains, URLs
+Output: Excel SOC investigation report
